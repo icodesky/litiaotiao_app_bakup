@@ -4,6 +4,8 @@
 
 > 李跳跳是一个可以消除软件内广告的软件。用户们面对手机中每个软件打开就会弹出来的广告是不是防不胜防呢？一旦误触就是非常多的弹框就跳了出来，还有每次进入界面就会突然弹出来的广告，是不是也是猝不及防啊。李跳跳可以轻松的将软件内的广告给清理掉，非常的方便好用。
 
+李跳跳自定义规则请使用：https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules 
+
 ![叮小跳0.0.8](https://cdn.jsdelivr.net/gh/icodesky/litiaotiao_app_bakup@main/dingskip.png)
 
 ### 02 叮小跳 v0.0.8
